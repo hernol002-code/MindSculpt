@@ -1,7 +1,7 @@
 # MindSculpt 🧠✨
 
 <div align="center">
-  <img width="350" height="350" alt="MindSculpt Logo" src="......" /> 
+  <img width="350" height="350" alt="MindSculpt Logo" src="" /> 
 </div>
 
 **MindSculpt** es una solución de accesibilidad sensorial adaptativa diseñada para mitigar la sobrecarga sensorial en personas neurodivergentes, como aquellas con TEA o TDAH. Esta herramienta utiliza el ecosistema **Swift** para transformar estímulos ambientales complejos en una experiencia digital controlada, predecible y terapéutica.
