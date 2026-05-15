@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<dict>
+		<key>NSMotionUsageDescription</key>
+		<string>Necesitamos detectar el movimiento del dispositivo para liberar tus emociones</string>
+	</dict>
+	<key>CFBundleExecutable</key>
+	<string>&lt;key&gt;NSCameraUsageDescription&lt;/key&gt;
+&lt;string&gt;Necesitamos acceso a la cámara para escanear colores calmantes&lt;/string&gt;</string>
+    <key>NSCameraUsageDescription</key>
+        <string>MindSculpt necesita acceso a la cámara para capturar colores calmantes que te ayuden a reducir tu estrés.</string>
+</dict>
+</plist>
