@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>MindSculpt necesita acceso a la cámara para capturar colores calmantes que te ayuden a reducir tu estrés.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>Detectamos el movimiento del dispositivo para que sacudirlo te ayude a liberar tensión emocional.</string>
+</dict>
+</plist>
