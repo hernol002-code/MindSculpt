@@ -1,4 +1,4 @@
-# MindSculpt 🧠✨
+# MindSculpt 🧠
 
 <div align="center">
   <img width="350" height="350" alt="MindSculpt Logo" src="" /> 
